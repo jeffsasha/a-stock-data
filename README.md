@@ -12,15 +12,14 @@
 </p>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License"></a>
-  <img src="https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white" alt="Python">
-  <a href="https://github.com/simonlin1212/a-stock-data/stargazers"><img src="https://img.shields.io/github/stars/simonlin1212/a-stock-data?style=social" alt="Stars"></a>
-  <br>
-  <img src="https://img.shields.io/badge/layers-15-2ea44f.svg" alt="Layers">
-  <img src="https://img.shields.io/badge/endpoints-87-2ea44f.svg" alt="Endpoints">
-  <img src="https://img.shields.io/badge/sources-34-2ea44f.svg" alt="Sources">
-  <img src="https://img.shields.io/badge/auth-zero-success.svg" alt="Zero Auth">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-2563eb?style=flat-square" alt="License: Apache 2.0"></a>
+  <a href="#快速开始"><img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 3.9 or newer"></a>
+  <a href="https://github.com/simonlin1212/a-stock-data"><img src="https://img.shields.io/badge/Fork-simonlin1212%2Fa--stock--data-64748b?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Fork of simonlin1212/a-stock-data"></a>
+  <a href="https://github.com/simonlin1212/a-stock-data/stargazers"><img src="https://img.shields.io/github/stars/simonlin1212/a-stock-data?style=flat-square&amp;label=upstream%20stars" alt="Upstream stars"></a>
+  <a href="https://github.com/jeffsasha/a-stock-data/commits"><img src="https://img.shields.io/github/last-commit/jeffsasha/a-stock-data?style=flat-square&amp;color=64748b" alt="Latest commit in this fork"></a>
 </p>
+
+> **关于此仓库：** 本仓库 fork 自 [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)。下文的作者介绍、求职信息与项目说明来自上游作者 Simon 林。
 
 ---
 
